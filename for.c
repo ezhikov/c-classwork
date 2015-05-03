@@ -14,6 +14,7 @@ int main()
   for(i = 1; i <= n; i++) sum +=i;
   printf("%d\n", sum);
   
-  system("PAUSE");	
+  system("PAUSE");
+  main();
   return 0;
 }
